@@ -9,13 +9,13 @@ This framework optimizes engineering onboarding and standardizes complex technic
 ### 2. Design: Developing a Blended Curriculum*   **Interactive Dashboards:** Visualizing complex logic and technical flows.*   **Live Product Demos:** Focused on real-world application.*   **Hands-on Practice:** Sandbox environments for validation.
 ### 3. Development: Agile Content CreationContent is created using an Agile methodology, allowing for rapid prototyping and iteration.
 
-```mermaid
 graph LR
     A[1. Analysis] --> B[2. Design]
     B --> C[3. Development]
     C --> D[4. Implementation]
     D --> E[5. Evaluation]
     E -.-> |Feedback Loop| A
+
 
 4. Implementation: Global Delivery & Support
 
@@ -33,14 +33,18 @@ The objective is to bridge the gap between "Tribal Knowledge" and "Structured En
 
 gantt
     title The Enablement Delta (Days to Productivity)
-    dateFormat  X
-    axisFormat %s
+    dateFormat X
+    axisFormat Day %s
+    tickInterval 1day
+
     section Traditional Shadowing
-    Onboarding Phase     :a1, 0, 45
-    Productive Output    :a2, 45, 90
+    Onboarding Phase     :a1, 0, 45s
+    Productive Output    :a2, after a1, 45s
+
     section Structured Enablement
-    Instructional Phase  :b1, 0, 15
-    Productive Output    :b2, 15, 45
+    Instructional Phase  :b1, 0, 15s
+    Productive Output    :b2, after b1, 30s
+
 
 📝 Conclusion
 By treating technical enablement as a core engineering asset, the organization moves away from inconsistent shadowing toward a scalable, data-driven standard.
