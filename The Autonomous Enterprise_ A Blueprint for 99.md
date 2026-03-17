@@ -12,7 +12,8 @@ Imagine it’s 2:00 AM on a Tuesday. Your phone vibrates—a **P1 Critical Incid
 
 When you wake up at 7:00 AM, you don't find a crisis; you find a **completed report**. This is the power of **Managed Uncertainty**.
 
-<img width="650" height="354" alt="unnamed" src="https://github.com/user-attachments/assets/df0ec4d9-9c37-4eb3-b74d-4a45b4a672e3" />
+
+<img width="650" height="354" alt="image_67daf9b2" src="https://github.com/user-attachments/assets/aa2d5fdf-a3c8-496c-bcb6-d35de52bd007" />
 
 
 ---
