@@ -1,6 +1,6 @@
 ## **The Autonomous Enterprise: A Blueprint for 99.99% Stability**
 
-![][image1]
+<img width="1408" height="768" alt="image_8ae71276" src="https://github.com/user-attachments/assets/d18c8f67-75ad-4ee1-b3e0-d44ed64b2a16" />
 
 ## **The 2:00 AM Phone Call: A Tale of Two Data Centers**
 
@@ -12,7 +12,8 @@ Imagine it’s 2:00 AM on a Tuesday. Your phone vibrates—a **P1 Critical Incid
 
 When you wake up at 7:00 AM, you don't find a crisis; you find a **completed report**. This is the power of **Managed Uncertainty**.
 
-![][image2]
+<img width="512" height="453" alt="unnamed" src="https://github.com/user-attachments/assets/df0ec4d9-9c37-4eb3-b74d-4a45b4a672e3" />
+
 
 ---
 
@@ -55,7 +56,8 @@ When managing 1,500+ annual incidents, you cannot rely on manual effort. You nee
 * **Stage 4: Proactive Escalation (SLA vs. SLO):** Use stricter internal **SLOs** (e.g., 2-hour response) to protect legal **SLAs** (4-hour limit). If the SLO is missed, trigger an automatic "Raise Concern" escalation.  
 * **Stage 5: Verified Closure:** Only "Soft Close" after a **24-hour stability window** to ensure no regressions were introduced.
 
-![][image3]
+<img width="1408" height="768" alt="image_c0322be6" src="https://github.com/user-attachments/assets/8802dbc6-8516-4c11-a761-0e97ad96bf7b" />
+
 
 ---
 
