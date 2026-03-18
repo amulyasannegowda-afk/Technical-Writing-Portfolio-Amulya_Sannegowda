@@ -9,7 +9,7 @@ I am a technical practitioner and freelance writer with over **13 years of exper
 My expertise is rooted in a decade-long focus on:
 *   **Large-scale Virtualization** & SDDC
 *   **Cloud Infrastructure** Design
-*   **Mission-Critical Systems Engineering**
+*   **High-Availability & Resilient Systems**
 
 I help organizations build trust with developer audiences through authoritative documentation, whitepapers, and technical blogs.
 
