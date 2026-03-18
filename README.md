@@ -13,6 +13,6 @@ My expertise is rooted in a decade-long focus on:
 
 I help organizations build trust with developer audiences through authoritative documentation, whitepapers, and technical blogs.
 
-### 🤝 Let's Connect
+### Let's Connect
 *   **LinkedIn:** [Amulya Sannegowda](https://linkedin.com)
-*   **GitHub:** [@YourGitHubUsername](https://github.com)
+*   **GitHub:** [@amulyasannegowda-afk](https://github.com)
