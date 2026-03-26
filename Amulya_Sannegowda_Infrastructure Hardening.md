@@ -5,6 +5,8 @@ In modern data center design, we often focus on the perimeter—the big firewall
 I like to visualize this through the **‘Inner Keep’ Model**. It’s a philosophy that treats your infrastructure not as a single house, but as a tiered fortress where the foundation itself provides the ultimate defense.
 
 <img width="650" height="768" alt="Inner-keep-model" src="https://github.com/user-attachments/assets/dcb9dad3-3ceb-41b3-b0f3-3e543411b161" />
+
+
 *Figure 1: Visualizing the shift from perimeter defense to a tiered, hardened core.*
 
 ---
