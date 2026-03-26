@@ -67,6 +67,7 @@ Securing one host is a manual task; securing a data center is a strategy. To pre
 ```powershell
 # Example: Disabling SSH across a VMware Cluster to 'lock the side doors'
 Get-Cluster "Production-Cluster" | Get-VMHost | Get-VMHostService | Where-Object {$_.Key -eq "TSM-SSH"} | Set-VMHostService -Policy Off -Confirm:$false -WhatIf
+```
 
 
 
