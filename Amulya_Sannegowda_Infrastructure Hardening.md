@@ -64,9 +64,10 @@ While the buttons we click are different, the goals are identical across all maj
 
 Securing one host is a manual task; securing a data center is a strategy. To prevent **Configuration Drift**, automation is essential.
 
-```powershell
+` ```powershell`
 # Example: Disabling SSH across a VMware Cluster to 'lock the side doors'
 Get-Cluster "Production-Cluster" | Get-VMHost | Get-VMHostService | Where-Object {$_.Key -eq "TSM-SSH"} | Set-VMHostService -Policy Off -Confirm:$false -WhatIf
+
 
 
 > [!TIP]
