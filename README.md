@@ -1,18 +1,17 @@
-# Technical-Writing-Portfolio-Amulya_Sannegowda
 ## ✍️ About the Author
 
 **Amulya Sannegowda**  
-*Freelance Technical Writer | Former Senior Software Engineer at VMware by Broadcom*
+*Technical Writer | Former Senior Member of Technical Staff at VMware by Broadcom*
 
-I am a technical practitioner and freelance writer with over **13 years of experience** in the enterprise software industry. Having served as a **Senior Member of Technical Staff** at VMware by Broadcom, I specialize in translating complex production-ready engineering concepts into clear, high-impact technical content.
+I am a technical practitioner and writer with over **13 years of experience** in the enterprise software industry. I specialize in translating complex production-ready engineering concepts into clear, high-impact technical content.
 
 My expertise is rooted in a decade-long focus on:
 *   **Large-scale Virtualization** & SDDC
-*   **Cloud Infrastructure** Design
+*   **Cloud Infrastructure**
 *   **High-Availability & Resilient Systems**
 
-I help organizations build trust with developer audiences through authoritative documentation, whitepapers, and technical blogs.
 
 ### Let's Connect
-*   **LinkedIn:** [Amulya Sannegowda](https://linkedin.com)
-*   **GitHub:** [@amulyasannegowda-afk](https://github.com)
+*   **LinkedIn:** [Amulya Sannegowda](https://www.linkedin.com/in/amulya-sannegowda-62892586)
+*   **GitHub:** [@YourGitHubUsername](https://github.com/amulyasannegowda-afk)
+*   **WordPress.com:** [asquarea2g](https://asquarea2g.wordpress.com/)
